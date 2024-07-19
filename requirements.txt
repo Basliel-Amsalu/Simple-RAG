@@ -11,3 +11,4 @@ accelerate
 bitsandbytes
 jupyter
 wheel
+chromadb

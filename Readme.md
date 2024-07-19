@@ -7,7 +7,7 @@ This is a simple rag project that is implemented from scratch using jupyter note
 4. chunks the sentences together
 5. Embed the chunks using embedding model (all-mpnet-v2)
 6. store the embeddings in a vector database
-    - there are two methods used in this step 
+    - there are two options used in this step 
         - the first method is to store the embeddings in a file (text_chunks_and_embeddings.csv)
         - the second method is to store the embeddings in a vector database (chromaDB) which contains the step prior to this to as it can do the embedding by it self give it is provided with the chunked sentences.
 7. retrieving the relevant chunks

@@ -1,4 +1,4 @@
-# simple RAG
+# Simple RAG
 ## Description
 This is a simple rag project that is implemented from scratch using jupyter notebook. It reads from PDF of any choice and performs the following operations.
 1. Extracts text from the PDF
